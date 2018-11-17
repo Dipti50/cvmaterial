@@ -1,0 +1,145 @@
+body
+{
+	margin:0px;
+	padding: 0px;
+
+}
+.dipti
+{	
+	margin:0px auto;
+	padding-top: 5px;
+	padding-bottom:5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width:1000px;
+	height:1200px;
+	background-color: transparent;
+	box-shadow: 4px -1px 12px 1px;
+}
+#leftcoloumn
+{
+	margin-top:-5PX;
+	padding: 0px;
+	border:1px solid #dfdfdf;
+	height: 1205px;
+	width: 300px;
+	float: left;
+	background-color:  lightgrey;
+}
+#rightcoloumn
+{
+	margin-top: -5px;
+	border:1px solid #dfdfdf;
+	min-height: 1205px;
+	width: 700px;
+	margin-left: 300px;
+
+}
+.icon-1
+{
+	margin-top: -8px;
+	padding:0px;
+	border:1px solid #2E548E;
+	background-color: #2E548E;
+	
+
+}
+.icon-2
+{	margin: 0px;
+	padding:0px;
+	border:1px solid #366AB5;
+	background-color: #366AB5;
+
+}
+.icon-3
+{
+
+	margin: 0px;
+	padding: 0px;
+	border:1px solid #3E88D6;
+	background-color: #3E88D6;
+}
+.personal
+{
+	float: right;
+	margin-right: 120px;
+}
+.skills
+{
+
+    float: right;
+    margin-right: 180px;
+
+}
+.software
+{
+	float: right;
+	margin-right: 187px;
+}
+.reference
+{
+	float: right;
+	margin-right: 120px;
+}
+.header
+{
+	margin-top: 0px;
+	padding: 10px;
+	float: left; 
+	
+}
+.name
+{
+	color: #366AB5;
+
+}
+.experience
+{
+	margin-top: 270px;
+	padding: 10px;
+	border:1px solid #DFDFDF;
+	background-color:#DFDFDF;
+}
+.row
+{
+	padding: 10px; 
+}
+.arrange
+{
+	margin-top:-55px; 
+	float:right;
+}
+.education
+{
+	padding: 10px;
+	border:1px solid #DFDFDF;
+	border-width: thin;
+	background-color: #DFDFDF;
+}
+.arrange2
+{
+	margin-top:-55px; 
+	padding-right: 177px;
+	float:right;
+}
+.hobbies
+{
+	padding: 10px;
+	border:1px solid #DFDFDF;
+	border-width: thin;
+	background-color: #DFDFDF;
+}
+.hobby-part
+{
+	list-style: none;
+	float:right;
+	margin-top: 30px;
+	padding-right: 350px;
+}
+.hobby-part li
+{
+	font-weight: 550;
+	display: inline;
+	margin-left: 28px;
+	letter-spacing: normal;
+}
